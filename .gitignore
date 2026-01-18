@@ -1,0 +1,21 @@
+
+
+# Configuración local
+*.env
+*_config.env
+*_local.env
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Dumps / backups
+*dump.sql
+*backup.sql
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
