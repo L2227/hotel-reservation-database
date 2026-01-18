@@ -12,6 +12,31 @@
 
 ### 3.1. Requisitos generales
 
+#### R.G.01. Gestión de cuentas
+Como administrador del sistema,<br>
+quiero que el sistema gestione y almacene la información de los usuarios,<br>
+para poder identificar y diferenciar quiénes utilizan la plataforma.
+
+#### R.G.02. Gestión de habitaciones
+Como administrador del sistema,<br>
+quiero que el sistema gestione la información relacionada con las habitacione.
+
+#### R.G.03. Gestión de reservas
+Como administrador del sistema,<br>
+quiero que el sistema guarde la información de las reservas que se hagan,<br>
+para saber la ocupación del hotel.
+
+#### R.G.04. Gestión de la limpieza
+Como administrador del sistema,<br>
+quiero que el sistema gestione la limpieza de las habitaciones,<br>
+para saber qué habitaciones se van limpiando.
+
+#### R.G.05. Gestión de pagos
+Como administrador del sistema,<br>
+quiero que el sistema guarde la debida información acerca de los pagos,<br>
+para garantizar que las transacciones quedan correctamente reflejadas.
+
+
 ### 3.2. Usuarios del sistema
 
 ## 4. Catálogo de requisitos
@@ -58,7 +83,6 @@ Como [tipo de usuario]
 quiero [servicio]
 para [razón]
 
--- fin entregable 1 --
 
 ## 5. Modelo conceptual
 
@@ -84,7 +108,6 @@ para [razón]
 | RN-2  | X          | X          | X          |            |
 | ...   |            |            |            |            |
 
--- fin entregable 2 --
 
 ## 7. Modelo relacional en 3FN
 
@@ -116,7 +139,6 @@ para [razón]
 | CONST-4 |        |        | X      |        |
 
 Se consideran todo tipo de constraints declarativas (aquellas definidas durante el CREATE TABLE).
--- fin entregable 3 --
 
 ## Referencias
 
