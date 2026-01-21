@@ -85,13 +85,28 @@ quiero que se guarde el nombre, correo y contraseña de los usuarios.
 
 ##### R.I.02. Información sobre las habitaciones
 
+Como administrador del sistema,<br>
+quiero conocer la planta y el número de las habitaciones, también quiero conocer qué tipo de habitación es (individual, doble...), qué categoría es (normal, suite...).
+
 ##### R.I.03. Información sobre las reservas
+
+Como administrador del sistema,<br>
+quiero conocer le fecha de la reserva (cuándo se ha realizado), fecha de inicio de estancia, fecha de fin de estancia.
 
 ##### R.I.04. Información sobre la limpieza
 
+Como administrador del sistema,<br>
+quiero conocer la fecha programada, la fecha de realización, el estado de la limpieza (pendiente, en proceso, realizada o cancelada), el tipo de limpieza y si hay alguna observación.
+
 ##### R.I.05. Información sobre los pagos
 
+Como administrador del sistema,<br>
+quiero conocer la fecha de realización del pago, la cantidad pagada, tipo de pago (reserva o pago estancia).
+
 ##### R.I.06. Información sobre las valoraciones
+
+Como administrador del sistema,<br>
+quiero conocer la puntuación recibida y un comentario opcional.
 
 
 #### 4.1.2. Reglas de negocio
