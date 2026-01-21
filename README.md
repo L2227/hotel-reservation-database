@@ -2,7 +2,13 @@
 
 ## 1. Introducción al problema
 
-- Descripción del problema para poner en contexto el proyecto, incluyendo información sobre los clientes y usuarios, la situación actual, problemas, expectativas, etc. Se valorará la presencia de información multimedia (fotos, gráficos, documentos escaneados, etc.).
+- Descripción del problema para poner en contexto el proyecto, incluyendo información sobre los clientes y usuarios, la situación actual, problemas, expectativas, etc. Se valorará la presencia de información multimedia (fotos, gráficos, documentos escaneados, etc.).<br>
+
+El hotel actualmente gestiona la mayoría de sus operaciones de forma manual, lo que provoca pérdida de tiempo, duplicidad de los datos y posibles errores en la gestión diaria. Las reservas se registran sin un sistema centralizado, lo que dificulta el control de la disponibilidad de las habitaciones y el acceso a información actualizada por parte del personal.<br>
+<br>
+Todo esto genera problemas como reservas duplicadas, dificultad para coordinar el trabajo del personal de limpieza y falta  de trazabilidad sobre el estado de las habitaciones y las estancias de los clientes. Además los trabajadores implicados no reciben la información de inmediato ni de manera uniforme.<br>
+<br>
+Ante esta situación, el hotel ha solicitado el diseño de una base de datos centralizada que permita gestionar de forma eficiente las reservas, los clientes, las habitaciones y las tareas internas tales como la limpieza, garantizando de esta manera la consistencia de los datos y facilitando futuras ampliaciones del sistema.<br>
 
 ## 2. Glosario de términos
 
