@@ -42,8 +42,23 @@ Como administrador del sistema,<br>
 quiero que el sistema guarde la debida información acerca de los pagos,<br>
 para garantizar que las transacciones quedan correctamente reflejadas.
 
+#### R.G.06 Gestión de valoraciones
+Como administrador del sistema,<br>
+quiero que el sistema guarde las valoraciones que se ponen.
+
 
 ### 3.2. Usuarios del sistema
+
+El sistema del hotel va a contar con los siguientes tipos de usuarios:
+
+**Administradores**
+   * Gestionan usuarios, habitaciones, supervisan incidentes y pueden hacer una reserva para un cliente.
+
+**Clientes**
+   * Se registran para reservar habitaciones, consultar disponibilidad de estas, poner valoraciones.
+
+**Servicio limpieza**
+   * Consultan qué habitaciones faltan por limpiar, marcan habitaciones como limpias.
 
 ## 4. Catálogo de requisitos
 
@@ -63,16 +78,21 @@ para [razón]
 
 #### 4.1.1. Requisitos de información
 
-##### R.I.01. Título requisito de información
+##### R.I.01. Información sobre los usuarios
 
-Como [tipo de usuario]
-quiero [servicio]
-para [razón]
+Como administrador del sistema,<br>
+quiero que se guarde el nombre, correo y contraseña de los usuarios.
 
-**Prueba de aceptación**
-- Descripción de la primera comprobación a realizar
-- Descripción de la segunda comprobación a realizar
-- ...
+##### R.I.02. Información sobre las habitaciones
+
+##### R.I.03. Información sobre las reservas
+
+##### R.I.04. Información sobre la limpieza
+
+##### R.I.05. Información sobre los pagos
+
+##### R.I.06. Información sobre las valoraciones
+
 
 #### 4.1.2. Reglas de negocio
 
