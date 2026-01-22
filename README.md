@@ -76,6 +76,131 @@ para [razón]
 - Se debe aplicar la regla de negocio R.N.XX.
 - ...
 
+#### R.F.1.01. Registro de usuarios
+
+Como administrador del sistema,<br>
+quiero que los clientes y trabajadores se puedan registrar en el sistema,<br>
+para poder hacer reservas o gestionar el servicio de limpieza.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.1.02. Eliminación de la cuenta
+
+Como cliente del sistema,<br>
+quiero poder eliminar mi cuenta junto a sus datos asociados,<br>
+para poder tener control sobre mi información personal y asegurar mi privacidad.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.1.03. Actualización de datos de la cuenta
+
+Como cliente del sistema,<br>
+quiero poder modificar mis datos personales,<br>
+para mantener mi información actualizada y correcta en el sistema.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.1.04. Consulta de información personal
+
+Como cliente del sistema,<br>
+quiero consultar mis datos personales,<br>
+para verificar que mi información está correcta.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.2.01. Registro de habitaciones
+
+Como administrador del sistema,<br>
+quiero poder registrar nuevas habitaciones en el sistema.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.2.02. Eliminación de habitaciones
+
+Como administrador del sistema,<br>
+quiero poder eliminar habitaciones del sistema,<br>
+para mantener actualizada la disponibilidad de estas.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.2.03. Actualización de datos de una habitación
+
+Como administrador del sistema,<br>
+quiero poder modificar los datos de las habitaciones,<br>
+para mantener la información actualizada.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.2.04. Lista de habitaciones para limpieza
+
+Como administrador del sistema,<br>
+quiero poder consultar qué habitaciones están limpias o pendientes de ser limpiadas,<br>
+para poder planificar mejor el servicio de limpieza.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.2.05. Lista de habitaciones
+
+Como administrador del sistema,<br>
+quiero 
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+#### R.F.3.01. Registro de reservas
+
+Como cliente del sistema,<br>
+quiero poder registrar una reserva seleccionando las características que quiero que tenga mi habitación.
+
+#### R.F.3.02. Anulación de reservas
+
+Como administrador del sistema,<br>
+quiero que los clientes y trabajadores puedan anular una reserva,<br>
+para saber si una habitación al final no va a ser ocupada.
+
+**Prueba de aceptación**
+- Descripción de la primera comprobación a realizar
+- Descripción de la segunda comprobación a realizar
+- Se debe aplicar la regla de negocio R.N.XX.
+- ...
+
+
+
 #### 4.1.1. Requisitos de información
 
 ##### R.I.01. Información sobre los usuarios
